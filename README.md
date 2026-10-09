@@ -13,8 +13,9 @@
  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
  <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-          
-          
+  
+<img width="495" height="375" alt="assassins creed assassin GIF" src="https://github.com/user-attachments/assets/3fff3985-54a2-4b55-b704-e06162b353a6" />
+
           
 </div>
 
