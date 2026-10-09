@@ -1,4 +1,7 @@
 ## Olá! Meu nome é Pedro e este é o meu perfil
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AxdXVsNTlhazY3ZXJ1NDRtOHR6dHdrNmswNXBnNDIxcHFjcDZvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm6324ee3VzcvI3b5/giphy.gif" alt="Matrix Rain" width="100%" height="150px">
+</p>
 
 <div align="center">
   <img height="300em" src="https://github-stats-xi-six.vercel.app/api/stats?user=pedro4897&theme=dark" alt="pedro4897 stats" /><br><br>
