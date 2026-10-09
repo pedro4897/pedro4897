@@ -1,8 +1,6 @@
-## Olá! Meu nome é Pedro e este é o meu perfil
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AxdXVsNTlhazY3ZXJ1NDRtOHR6dHdrNmswNXBnNDIxcHFjcDZvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm6324ee3VzcvI3b5/giphy.gif" alt="Matrix Rain" width="100%" height="150px">
-</p>
-
+<div align="center">
+<img width="250" height="350" alt="Matriz rain" src="https://github.com/user-attachments/assets/a9ea546a-70bd-4840-8724-4d0cb02081eb" /><br><br>
+</div>
 <div align="center">
   <img height="300em" src="https://github-stats-xi-six.vercel.app/api/stats?user=pedro4897&theme=dark" alt="pedro4897 stats" /><br><br>
   <img width="395" height="275" alt="assassins creed assassin GIF" src="https://github.com/user-attachments/assets/3fff3985-54a2-4b55-b704-e06162b353a6" />
