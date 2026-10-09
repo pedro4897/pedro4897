@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: dahan8473/snake-and-commits@v1
         with:
-          github_user: ${{ github.ref_name }}
+          github_user: ${{ github.repository_owner }}
           output: dist/snake.svg
           theme: green
       - uses: crazy-max/ghaction-github-pages@v4
